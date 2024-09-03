@@ -9,23 +9,23 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{DeeCeeXxx}/count.svg" alt="TOpPLUG :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/Hubdarkweb/followers"><img title="Followers" src="https://img.shields.io/github/followers/Hubdarkweb?color=red&style=flat-square"></a>
-<a href="https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Hubdarkweb/TOpPLUG SPIDER🐛?color=blue&style=flat-square"></a>
-<a href="https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Hubdarkweb/TOpPLUG SPIDER🐛?color=red&style=flat-square"></a>
-<a href="https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Hubdarkweb/TOpPLUG SPIDER🐛?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛/"><img title="Size" src="https://img.shields.io/github/repo-size/Hubdarkweb/TOpPLUG SPIDER🐛?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHubdarkweb%2FTOpPLUG SPIDER🐛-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Hubdarkweb/Cyberpunk/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Hubdarkweb/Cyberpunk?color=blue&style=flat-square"></a>
+<a href="https://github.com/Hubdarkweb/Cyberpunk/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Hubdarkweb/Cyberpunk?color=red&style=flat-square"></a>
+<a href="https://github.com/Hubdarkweb/Cyberpunk/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Hubdarkweb/Cyberpunk?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Hubdarkweb/Cyberpunk/"><img title="Size" src="https://img.shields.io/github/repo-size/Hubdarkweb/Cyberpunk?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHubdarkweb%2FCyberpunk-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Hubdarkweb/Cyberpunk/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
- ## TOpPLUG SPIDER🐛 Deployment Methods
+ ## TOpPLUG Cyberpunk SPIDER🐛 Deployment Methods
 
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/Hubdarkweb/Cyberpunk/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. GET SESSION ID HERE
 
@@ -61,11 +61,11 @@
 ### DEPLOY ON REPLIT
 1. Deploy.
     <br>
-    <a href='https://replit.com/github/Hubdarkweb/TOpPLUG SPIDER🐛' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://replit.com/github/Hubdarkweb/Cyberpunk' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 ### DEPLOY ON RAILWAY
 1. Deploy.
     <br>
-    <a href='https://railway.com/github/Hubdarkweb/TOpPLUG SPIDER🐛' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
+    <a href='https://railway.com/github/Hubdarkweb/Cyberpunk' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
     <h2 align="center"> ⚠️ NOTE  </h2>
 ## TOpPLUG SPIDER🐛 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
