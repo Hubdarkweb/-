@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/DeeCeeXxx/Queen_Anita-V2  /root/DeeCeeXxx
-WORKDIR /root/DeeCeeXxx/
+RUN git clone https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛  /root/Hubdarkweb
+WORKDIR /root/Hubdarkweb/
 
 
 COPY package.json .
