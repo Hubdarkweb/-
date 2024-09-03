@@ -6,7 +6,7 @@
  </p>
 <p align="center">
 <img src="https://telegra.ph/file/a22200a780671e0e32383.jpg"/> 
-<p align="center"><img src="https://profile-counter.glitch.me/{DeeCeeXxx}/count.svg" alt="DeeCeeXxx :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{DeeCeeXxx}/count.svg" alt="TOpPLUG :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/Hubdarkweb/followers"><img title="Followers" src="https://img.shields.io/github/followers/Hubdarkweb?color=red&style=flat-square"></a>
 <a href="https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Hubdarkweb/TOpPLUG SPIDER🐛?color=blue&style=flat-square"></a>
