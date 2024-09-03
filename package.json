@@ -5,12 +5,12 @@
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name TOpPLUG SPIDER🐛 || node .",
-      "asta": "pm2 start . --deep-monitoring --attach --name TOpPLUG SPIDER🐛 || node .",
-      "start": "pm2 start . --attach --name TOpPLUG SPIDER🐛",
-      "stop": "pm2 stop TOpPLUG SPIDER🐛",
-      "heroku-postbuild": "git clone https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛 temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "run": "pm2 start . --deep-monitoring --attach --name Cyberpunk || node .",
+      "asta": "pm2 start . --deep-monitoring --attach --name Cyberpunk || node .",
+      "start": "pm2 start . --attach --name Cyberpunk",
+      "stop": "pm2 stop Cyberpunk",
+      "heroku-postbuild": "git clone https://github.com/Hubdarkweb/Cyberpunk temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+      "fis-heroku-postbuild": "git clone https://github.com/Hubdarkweb/Cyberpunk.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
    "author": "TOpPLUG SPIDER🐛",
@@ -76,10 +76,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛.git"
+      "url": "git+https://github.com/Hubdarkweb/Cyberpunk.git"
    },
    "bugs": {
-      "url": "https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛/issues"
+      "url": "https://github.com/Hubdarkweb/Cyberpunk/issues"
    },
-   "homepage": "https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛#readme"
+   "homepage": "https://github.com/Hubdarkweb/Cyberpunk#readme"
 }
