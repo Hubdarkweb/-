@@ -1,19 +1,19 @@
 {
-   "name": "Queen_Anita-V2",
-   "version": "2.5.0",
-   "description": "Multi device whatsapp bot by DeeCeeXxx.",
+   "name": "TOpPLUG SPIDER🐛",
+   "version": "1.0.0",
+   "description": "Multi device whatsapp bug bot.",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name Queen_Anita-V2 || node .",
-      "asta": "pm2 start . --deep-monitoring --attach --name Queen_Anita-V2 || node .",
-      "start": "pm2 start . --attach --name Queen_Anita-V2",
-      "stop": "pm2 stop Queen_Anita-V2",
-      "heroku-postbuild": "git clone https://github.com/DeeCeeXxx/Queen_Anita-V2 temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone https://github.com/DeeCeeXxx/Queen_Anita-V2.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "run": "pm2 start . --deep-monitoring --attach --name TOpPLUG SPIDER🐛 || node .",
+      "asta": "pm2 start . --deep-monitoring --attach --name TOpPLUG SPIDER🐛 || node .",
+      "start": "pm2 start . --attach --name TOpPLUG SPIDER🐛",
+      "stop": "pm2 stop TOpPLUG SPIDER🐛",
+      "heroku-postbuild": "git clone https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛 temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+      "fis-heroku-postbuild": "git clone https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "David Cyril",
+   "author": "TOpPLUG SPIDER🐛",
    "license": "Apache-2.0",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
@@ -76,10 +76,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/DeeCeeXxx/Queen_Anita-V2.git"
+      "url": "git+https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛.git"
    },
    "bugs": {
-      "url": "https://github.com/DeeCeeXxx/Queen_Anita-V2/issues"
+      "url": "https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛/issues"
    },
-   "homepage": "https://github.com/DeeCeeXxx/Queen_Anita-V2#readme"
+   "homepage": "https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛#readme"
 }
