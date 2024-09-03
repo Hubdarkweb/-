@@ -13,7 +13,7 @@ global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
-global.github = process.env.GITHUB || "https://github.com/Hubdarkweb/TOpPLUG SPIDER🐛";
+global.github = process.env.GITHUB || "https://github.com/Hubdarkweb/Cyberpunk";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/17c8ba84a7761eed633f6.jpg";
@@ -50,7 +50,7 @@ module.exports = {
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "`TOpPLUG SPIDER🐛™`",
   author: process.env.PACK_AUTHER || "TOpPLUG SPIDER🐛",
-  packname: process.env.PACK_NAME || "BUGS BUNNY 🐛",
+  packname: process.env.PACK_NAME || "Cyberpunk",
   botname: process.env.BOT_NAME || "TOpPLUG SPIDER🐛",
   ownername: process.env.OWNER_NAME || "TOpPLUG SPIDER🐛",
   errorChat: process.env.ERROR_CHAT || "",
